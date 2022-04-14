@@ -15,8 +15,13 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
 - 🌱 - I’m currently learning Deep Neural Networks using Pytorch
 - 📫 - How to reach me: gabriellguedes16@gmail.com
 
- **Python**:
-  <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"><br>
+<br>
+  
+ **Python**:<br>
+ 
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielG16&&show_icons=true&theme=radical&line_height=27&v=5" alt="Gabriel's GitHub Stats" />
+   
+  <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"><br>  
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy%20-orange?style=flat&logo=numpy&logoColor=white)
   ![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white) <br>
@@ -27,22 +32,15 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
   ![Pytorch](https://img.shields.io/badge/-Pytorch-0000FF?style=flat&logo=pytorch&logoColor=white)<br>
   ![Streamlit](https://img.shields.io/badge/-Streamlit-0d7963?style=flat&logo=streamlit&logoColor=white)
   <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> 
-  <br><br>
+  
+   <a align = "right" href="https://github.com/GabrielG16"><br>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG16&theme=radical&hide=glsl,python" />
+</a>
  **SQL**:<br>
  ![Mysql](https://img.shields.io/badge/-MySQL-999900?style=flat&logo=mysql&logoColor=white) <br>
  ![SQLite](https://img.shields.io/badge/-SQLite-999900?style=flat&logo=sqlite&logoColor=white) <br>
  ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-999900?style=flat&logo=postgresql&logoColor=white) 
 
-
-----
-
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielG16&&show_icons=true&theme=radical&line_height=27&v=5" alt="Gabriel's GitHub Stats" />
-
-
----
-<a href="https://github.com/GabrielG16">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG16&theme=radical&hide=glsl,python" />
-</a>
 
 <!--
 **GabrielG16/GabrielG16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
