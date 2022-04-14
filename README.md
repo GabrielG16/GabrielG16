@@ -1,4 +1,4 @@
-# Gabriel Guedes
+# Hello, I'm Gabriel Guedes
 <img align = "right" src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47bvstufr8gnn94iqqxsjd4wx4tnsep1le0omh5h76&rid=giphy.gif&ct=g" width="300px"/>
 <br><br>
 
@@ -9,7 +9,7 @@
   <code><a href="https://twitter.com/GrabielGuedes" title="Twitter"><img width="22" src="https://user-images.githubusercontent.com/75858458/163425318-d13884d9-3796-4c77-8016-59f714ae5af1.png"> Twitter</a></code>
 </h5>
 <br>
-I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am currently looking for an opportunity to start working for a data company to further develop my skills in a real scenario. I'm living in Campinas-SP, Brazil.
+I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am currently looking for an opportunity to start working a company to further develop my skills in a real scenario with real data problems. I'm currently living in Campinas-SP, Brazil.E us
 <br><br>
 
 - 🔭 - I’m currently working on Data Analysis and Machine Learning Projects 
