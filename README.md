@@ -22,7 +22,7 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielG16&&show_icons=true&theme=radical&line_height=27&v=5" alt="Gabriel's GitHub Stats" />
    
   <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"><br> 
-  ![Selenium](https://img.shields.io/badge/-Selenium-999900?style=flat&logo=selenium&logoColor=white)<br>
+  ![Selenium](https://img.shields.io/badge/-Selenium-663300?style=flat&logo=selenium&logoColor=white)<br>
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy%20-orange?style=flat&logo=numpy&logoColor=white)
   ![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white) <br>
