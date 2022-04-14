@@ -1,5 +1,5 @@
 # Hello there!
-<img align = "left" src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47bvstufr8gnn94iqqxsjd4wx4tnsep1le0omh5h76&rid=giphy.gif&ct=g" width="300px"/>
+<img align = "left" src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47bvstufr8gnn94iqqxsjd4wx4tnsep1le0omh5h76&rid=giphy.gif&ct=g" width="250px"/>
 <br><br><br>
 <br><br>
 <h5 align="left">
@@ -21,7 +21,8 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
  
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielG16&&show_icons=true&theme=radical&line_height=27&v=5" alt="Gabriel's GitHub Stats" />
    
-  <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"><br>  
+  <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"><br> 
+  ![Selenium](https://img.shields.io/badge/-Selenium-999900?style=flat&logo=selenium&logoColor=white)<br>
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy%20-orange?style=flat&logo=numpy&logoColor=white)
   ![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white) <br>
@@ -39,8 +40,9 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
  **SQL**:<br>
  ![Mysql](https://img.shields.io/badge/-MySQL-999900?style=flat&logo=mysql&logoColor=white) <br>
  ![SQLite](https://img.shields.io/badge/-SQLite-999900?style=flat&logo=sqlite&logoColor=white) <br>
- ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-999900?style=flat&logo=postgresql&logoColor=white) 
-
+ ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-999900?style=flat&logo=postgresql&logoColor=white) <br><br>
+**NoSQL**<br>
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-006600?style=flat&logo=mongodb&logoColor=white) <br>
 
 <!--
 **GabrielG16/GabrielG16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
