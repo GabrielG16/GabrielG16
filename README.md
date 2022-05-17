@@ -8,7 +8,7 @@
   <code><a href="https://www.hackerrank.com/gabriellguedes16" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/GrabielGuedes" title="Twitter"><img width="22" src="https://user-images.githubusercontent.com/75858458/163425318-d13884d9-3796-4c77-8016-59f714ae5af1.png"> Twitter</a></code>
 </h5>
-I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am currently looking for an opportunity to start working a company to further develop my skills in a real scenario with real data problems. I'm currently living in Campinas-SP, Brazil :brazil:.
+I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am currently looking for an opportunity to start working a company to further develop my skills in a real scenario with real data problems. I'm currently living in Campinas-SP, Brazil :brazil:. Check out some of my projects on the pinned section!
 <br><br>
 
 - 🔭 - I’m currently working on Data Analysis and Machine Learning Projects 
@@ -19,7 +19,7 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
   
  **Python**:<br>
  
-   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielG16&&show_icons=true&theme=radical&line_height=27&v=5" alt="Gabriel's GitHub Stats" />
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=GabrielG16&&show_icons=true&theme=tokyonight&line_height=27&v=5" alt="Gabriel's GitHub Stats" />
    
   <img src="https://img.shields.io/badge/-Python%203-black?style=flat&logo=python&logoColor=white"><br> 
   ![Selenium](https://img.shields.io/badge/-Selenium-663300?style=flat&logo=selenium&logoColor=white)<br>
@@ -35,7 +35,7 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
   <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> 
   
    <a align = "right" href="https://github.com/GabrielG16"><br>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG16&theme=radical&hide=glsl,python" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielG16&theme=tokyonight&hide=glsl,python" />
 </a>
  **SQL**:<br>
  ![Mysql](https://img.shields.io/badge/-MySQL-999900?style=flat&logo=mysql&logoColor=white) <br>
