@@ -12,7 +12,7 @@ I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am c
 <br><br>
 
 - 🔭 - I’m currently working on Data Analysis and Machine Learning Projects 
-- 🌱 - I’m currently learning Deep Neural Networks using Pytorch
+- 🌱 - I’m currently learning Deep Neural Networks using Pytorch and NLP 
 - 📫 - How to reach me: gabriellguedes16@gmail.com
 
 <br>
