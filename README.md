@@ -3,7 +3,7 @@
 <br><br><br>
 <br><br>
 <h5 align="left">
-  <code>
+  <code><br><br><br><br><br><br><br><br><br><br>
     <a href="https://www.linkedin.com/in/gabriel-guedes-6b557785/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/gabriellguedes16" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/GrabielGuedes" title="Twitter"><img width="22" src="https://user-images.githubusercontent.com/75858458/163425318-d13884d9-3796-4c77-8016-59f714ae5af1.png"> Twitter</a></code>
