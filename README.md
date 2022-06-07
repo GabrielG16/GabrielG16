@@ -1,7 +1,7 @@
 # Hello there!
 <img align = "left" src="https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif?cid=ecf05e47bvstufr8gnn94iqqxsjd4wx4tnsep1le0omh5h76&rid=giphy.gif&ct=g" width="125px" height="125px"/>
 <br><br><br>
-<br><br>
+<br><br><br>
 <h5 align="left">
   <code><br><br>
     <a href="https://www.linkedin.com/in/gabriel-guedes-6b557785/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
