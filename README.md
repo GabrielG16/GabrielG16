@@ -8,7 +8,7 @@
   <code><a href="https://www.hackerrank.com/gabriellguedes16" title="HackerRank Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://twitter.com/GrabielGuedes" title="Twitter"><img width="22" src="https://user-images.githubusercontent.com/75858458/163425318-d13884d9-3796-4c77-8016-59f714ae5af1.png"> Twitter</a></code>
 </h5>
-I'm Gabriel Guedes and I'm starting a new career towards Data Science and I am currently looking for an opportunity to start working a company to further develop my skills in a real scenario with real data problems. I'm currently living in Campinas-SP, Brazil :brazil:. Check out some of my projects on the pinned section!
+I'm Gabriel Guedes and I'm a freelance Data Scientist looking for exciting challenges. I'm currently living in Campinas-SP, Brazil :brazil:. Check out some of my projects on the pinned section!
 <br><br>
 
 - 🔭 - I’m currently working on Data Analysis and Machine Learning Projects 
