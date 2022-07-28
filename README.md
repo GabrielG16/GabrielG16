@@ -29,7 +29,8 @@ I'm Gabriel Guedes and I'm a Data Scientist/Data Analyst looking for new and exc
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-FF0000?style=flat&logo=Matplotlib&logoColor=white)
   ![Seaborn](https://img.shields.io/badge/-Seaborn%20-D00000?style=flat) <br>
   <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=scikitlearn&logoColor=white"><br>
-  ![Keras](https://img.shields.io/badge/-Keras-0000FF?style=flat&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/-Keras-0000FF?style=flat&logo=tensorflow&logoColor=white) 
+  ![OpenCV](https://img.shields.io/badge/-Opencv-00C864?style=flat&logo=openCV&logoColor=white) 
   ![Pytorch](https://img.shields.io/badge/-Pytorch-0000FF?style=flat&logo=pytorch&logoColor=white)<br>
   ![Streamlit](https://img.shields.io/badge/-Streamlit-0d7963?style=flat&logo=streamlit&logoColor=white)
   <img src="https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white"> 
